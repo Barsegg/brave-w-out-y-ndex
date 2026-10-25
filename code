@@ -1,0 +1,7 @@
+! name: Без Яндекса
+! description: Исключает сайты Яндекса из результатов
+! public: false
+! author: Ян
+
+$discard,site=yandex.ru
+$discard,site=yandex.com
